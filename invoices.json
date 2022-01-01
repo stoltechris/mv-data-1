@@ -29,6 +29,38 @@
 			]
 		},
 		{
+			"id": "3",
+			"recipient": {
+				"name": "Somebody",
+				"address": "358 Main Road\nPO Box 1130"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "PO Box cleaning",
+					"amount": "1600"
+				},
+				{
+					"description": "Road plowing",
+					"amount": "2000"
+				}
+			]
+		},
+		{
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "1",
 			"date": "2016-10-07",
 			"recipient": {
