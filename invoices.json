@@ -47,20 +47,6 @@
 			]
 		},
 		{
-			"recipient": {},
-			"currency": "$",
-			"services": [
-				{}
-			]
-		},
-		{
-			"recipient": {},
-			"currency": "$",
-			"services": [
-				{}
-			]
-		},
-		{
 			"id": "1",
 			"date": "2016-10-07",
 			"recipient": {
